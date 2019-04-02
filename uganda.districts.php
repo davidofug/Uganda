@@ -3,7 +3,7 @@
  * Uganda States(Districts)
  *
  * Based on English names published at https://en.wikipedia.org/wiki/ISO_3166-2:UG
- *
+ * PHP 5.4+
  **/
 
 $districtsUganda = array(
@@ -136,3 +136,5 @@ $districtsUganda = array(
     'UG313' => 'Yumbe',
     'UG330' => 'Zombo',
 );
+
+echo $districtsUganda['UG330'];
