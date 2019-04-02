@@ -1,9 +1,6 @@
-<?php
 /**
- * Uganda States(Districts)
- *
+ * Districts of Uganda
  * Based on English names published at https://en.wikipedia.org/wiki/ISO_3166-2:UG
- * JavaScript Object
  * Supported by ES5+
  **/
 
