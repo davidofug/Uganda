@@ -1,13 +1,13 @@
 <?php
 /**
 *
-* Universities in Districts of Uganda
+* Institutes and Universities in the Districts of Uganda
 * PHP 5.6+
 * 
 * Swapp [ ] for array() to support older PHP versions
 **/
 
-$universities = [
+$institutes = [
 	'Kampala' => [
 		'Makerere University', 
 		'Kyambogo University', 
@@ -113,3 +113,8 @@ $universities = [
 		'Kigumba Petroleum Institute'
 	]
 ];
+
+//Example
+
+echo $institutes['Kiryandongo'][0];
+
