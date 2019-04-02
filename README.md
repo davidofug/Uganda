@@ -8,7 +8,8 @@ To contribute Fork then create a Pull Request (PR)
 4. districts.html
 
 ## USAGE
-At the end of each file, an example is given
+1. Copy content of districts.html to your html file.
+2. At the end of each file i.e. districts.py, districts.php, districts.js, an example is given
 
 ## Contribution
 1. Comment with usecase questions
